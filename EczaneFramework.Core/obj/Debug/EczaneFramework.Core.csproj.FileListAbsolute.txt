@@ -1,0 +1,8 @@
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.Core\bin\Debug\EczaneFramework.Core.dll
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.Core\bin\Debug\EczaneFramework.Core.pdb
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.Core\bin\Debug\PostSharp.dll
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.Core\bin\Debug\PostSharp.xml
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.Core\bin\Debug\EczaneFramework.Core.pssym
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.Core\obj\Debug\EczaneFramework.Core.dll.postsharp
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.Core\obj\Debug\EczaneFramework.Core.dll
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.Core\obj\Debug\EczaneFramework.Core.pdb

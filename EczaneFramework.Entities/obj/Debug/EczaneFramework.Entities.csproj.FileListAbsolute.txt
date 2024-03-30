@@ -1,0 +1,10 @@
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.Entities\bin\Debug\EczaneFramework.Entities.dll
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.Entities\bin\Debug\EczaneFramework.Entities.pdb
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.Entities\obj\Debug\EczaneFramework.Entities.dll
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.Entities\obj\Debug\EczaneFramework.Entities.pdb
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\EczaneFramework.Entities\bin\Debug\EczaneFramework.Entities.dll
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\EczaneFramework.Entities\bin\Debug\EczaneFramework.Entities.pdb
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\EczaneFramework.Entities\obj\Debug\EczaneFramework.Entities.csproj.AssemblyReference.cache
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\EczaneFramework.Entities\obj\Debug\EczaneFramework.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\EczaneFramework.Entities\obj\Debug\EczaneFramework.Entities.dll
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\EczaneFramework.Entities\obj\Debug\EczaneFramework.Entities.pdb

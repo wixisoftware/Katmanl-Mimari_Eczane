@@ -1,0 +1,14 @@
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.DataAccess\bin\Debug\EczaneFramework.DataAccess.dll.config
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.DataAccess\bin\Debug\EczaneFramework.DataAccess.dll
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.DataAccess\bin\Debug\EczaneFramework.DataAccess.pdb
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.DataAccess\bin\Debug\EczaneFramework.Entities.dll
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.DataAccess\bin\Debug\EntityFramework.dll
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.DataAccess\bin\Debug\EczaneFramework.Entities.pdb
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.DataAccess\bin\Debug\EntityFramework.xml
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.DataAccess\obj\Debug\EczaneFramework.DataAccess.csprojResolveAssemblyReference.cache
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.DataAccess\obj\Debug\EczaneFramework.DataAccess.dll
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.DataAccess\obj\Debug\EczaneFramework.DataAccess.pdb
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.DataAccess\bin\Debug\Dapper.dll
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.DataAccess\bin\Debug\Dapper.xml

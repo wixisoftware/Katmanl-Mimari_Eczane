@@ -1,0 +1,10 @@
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\ApiTest_Console\bin\Debug\ApiTest_Console.exe.config
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\ApiTest_Console\bin\Debug\ApiTest_Console.exe
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\ApiTest_Console\bin\Debug\ApiTest_Console.pdb
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\ApiTest_Console\bin\Debug\RestSharp.dll
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\ApiTest_Console\bin\Debug\RestSharp.xml
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\ApiTest_Console\obj\Debug\ApiTest_Console.csproj.AssemblyReference.cache
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\ApiTest_Console\obj\Debug\ApiTest_Console.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\ApiTest_Console\obj\Debug\ApiTest_Console.csproj.CopyComplete
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\ApiTest_Console\obj\Debug\ApiTest_Console.exe
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\ApiTest_Console\obj\Debug\ApiTest_Console.pdb

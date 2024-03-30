@@ -1,0 +1,62 @@
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.APIUI\bin\roslyn\csc.exe
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.APIUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.APIUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.APIUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.APIUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.APIUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.APIUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.APIUI\bin\roslyn\System.Collections.Immutable.dll
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.APIUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.APIUI\bin\roslyn\vbc.exe
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.APIUI\bin\roslyn\VBCSCompiler.exe
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.APIUI\bin\roslyn\VBCSCompiler.exe.config
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.APIUI\bin\EczaneFramework.APIUI.dll.config
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.APIUI\bin\EczaneFramework.APIUI.dll
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.APIUI\bin\EczaneFramework.APIUI.pdb
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.APIUI\bin\EczaneFramework.Entities.dll
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.APIUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.APIUI\bin\Newtonsoft.Json.dll
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.APIUI\bin\System.Net.Http.Formatting.dll
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.APIUI\bin\System.Web.Http.dll
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.APIUI\bin\System.Web.Http.WebHost.dll
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.APIUI\bin\EczaneFramework.Entities.pdb
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.APIUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.APIUI\bin\Newtonsoft.Json.xml
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.APIUI\bin\System.Net.Http.Formatting.xml
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.APIUI\bin\System.Web.Http.xml
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.APIUI\bin\System.Web.Http.WebHost.xml
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.APIUI\obj\Debug\EczaneFramework.APIUI.csprojResolveAssemblyReference.cache
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.APIUI\obj\Debug\EczaneFramework.APIUI.dll
+D:\HusrevYILDIZ\intIII\EczaneFramework\EczaneFramework.APIUI\obj\Debug\EczaneFramework.APIUI.pdb
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\EczaneFramework.APIUI\bin\roslyn\csc.exe
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\EczaneFramework.APIUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\EczaneFramework.APIUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\EczaneFramework.APIUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\EczaneFramework.APIUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\EczaneFramework.APIUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\EczaneFramework.APIUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\EczaneFramework.APIUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\EczaneFramework.APIUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\EczaneFramework.APIUI\bin\roslyn\vbc.exe
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\EczaneFramework.APIUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\EczaneFramework.APIUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\EczaneFramework.APIUI\bin\EczaneFramework.APIUI.dll.config
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\EczaneFramework.APIUI\bin\EczaneFramework.APIUI.dll
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\EczaneFramework.APIUI\bin\EczaneFramework.APIUI.pdb
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\EczaneFramework.APIUI\bin\EczaneFramework.Entities.dll
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\EczaneFramework.APIUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\EczaneFramework.APIUI\bin\Newtonsoft.Json.dll
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\EczaneFramework.APIUI\bin\System.Net.Http.Formatting.dll
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\EczaneFramework.APIUI\bin\System.Web.Http.dll
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\EczaneFramework.APIUI\bin\System.Web.Http.WebHost.dll
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\EczaneFramework.APIUI\bin\EczaneFramework.Entities.pdb
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\EczaneFramework.APIUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\EczaneFramework.APIUI\bin\Newtonsoft.Json.xml
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\EczaneFramework.APIUI\bin\System.Net.Http.Formatting.xml
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\EczaneFramework.APIUI\bin\System.Web.Http.xml
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\EczaneFramework.APIUI\bin\System.Web.Http.WebHost.xml
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\EczaneFramework.APIUI\obj\Debug\EczaneFramework.APIUI.csproj.AssemblyReference.cache
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\EczaneFramework.APIUI\obj\Debug\EczaneFramework.APIUI.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\EczaneFramework.APIUI\obj\Debug\EczaneFramework.APIUI.csproj.CopyComplete
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\EczaneFramework.APIUI\obj\Debug\EczaneFramework.APIUI.dll
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\ApiliIt3\EczaneFramework.APIUI\obj\Debug\EczaneFramework.APIUI.pdb
